@@ -1,0 +1,29 @@
+{
+  "publisher": "dkcaliskan",
+  "repository": "https://github.com/dkcaliskan/yttrium",
+  "name": "yttrium",
+  "displayName": "Yttrium",
+  "description": "Yttrium themes for Visual Studio Code",
+  "icon": "media/logo.png",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yttrium dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yttrium-dark.json"
+      },
+      {
+        "label": "Yttrium light",
+        "uiTheme": "vs",
+        "path": "./themes/yttrium-light.json"
+      }
+    ]
+  }
+}
