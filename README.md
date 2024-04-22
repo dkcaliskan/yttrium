@@ -16,8 +16,8 @@
 <br />
 <br />
 <h1>Yttrium Light</h1>
-<img style="border: 1px solid black; border-radius: 6px;" src="./media/light.png">
+<img style="border: 1px solid black; border-radius: 6px;" src="./media/light.jpg">
 <br />
 <br />
 <h1>Yttrium Dark</h1>
-<img style="border: 1px solid white; border-radius: 6px;" src="./media/dark.jpeg">
+<img style="border: 1px solid white; border-radius: 6px;" src="./media/dark.jpg">
