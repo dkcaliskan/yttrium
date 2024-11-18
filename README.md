@@ -1,8 +1,5 @@
 <div align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=dkcaliskan.yttrium"><img src="./media/logo.png"></a>
-    <br />
-    <br />
-    <br />
     <h1>
         Click logo to install
     </h1>
